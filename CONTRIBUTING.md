@@ -40,7 +40,7 @@ Feature requests are also tracked as GitHub issues. Please provide:
 ### Setup
 
 ```bash
-git clone https://github.com/SandipGhimire/nepali-date-library.git
+git clone https://github.com/SandipGhimire/Nepali-Date-Library-NodeJS.git
 cd nepali-date-library
 pnpm install
 ```

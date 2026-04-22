@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/SandipGhimire/Nepali-Date-Library-NodeJS/blob/master/LICENSE)
 [![Docs](https://img.shields.io/badge/Docs-Official%20Wiki-blue)](https://nepalidate.sandip-ghimire.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/SandipGhimire/nepali-date-library-nodejs)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/SandipGhimire/Nepali-Date-Library-NodeJS)
 
 ## Overview
 
@@ -39,5 +39,5 @@ For more advanced usage, please refer to the [Wiki](https://nepalidate.sandip-gh
 
 ## License
 
-[MIT](https://github.com/SandipGhimire/Nepali-Date-Library/blob/master/LICENSE) © [Sandip Ghimire](https://github.com/SandipGhimire)
+[MIT](https://github.com/SandipGhimire/Nepali-Date-Library-NodeJS/blob/master/LICENSE) © [Sandip Ghimire](https://github.com/SandipGhimire)
 ```
